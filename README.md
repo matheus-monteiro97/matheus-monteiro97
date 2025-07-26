@@ -11,6 +11,8 @@ Atualmente utilizo em meus trabalhos e projetos as seguintes tecnologias:
   <img alt="nest" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">
   <img alt="react" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img alt="nextjs" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img alt="gcp" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"> 
+  <img alt="aws" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 
