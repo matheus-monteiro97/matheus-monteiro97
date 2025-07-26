@@ -15,6 +15,8 @@ Atualmente utilizo em meus trabalhos e projetos as seguintes tecnologias:
   <img alt="mysql" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   <img alt="gcp" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg"> 
   <img alt="aws" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img alt="docker" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img alt="kubernetes" height="60px" src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">
 </div>
 
 
