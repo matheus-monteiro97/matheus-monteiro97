@@ -1,4 +1,4 @@
-### Olá! Tudo bem? Me chamo Matheus e sou desenvolvedor back-end.
+### Olá! Tudo bem? Sou Matheus, Desenvolvedor FullStack, com experiência em microsserviços e um compromisso constante com boas práticas de desenvolvimento, como SOLID, Clean Code e Design Patterns, além de metodologias ágeis como Scrum e Kanban.
 
 Atualmente utilizo em meus trabalhos, estudos e projetos as seguintes tecnologias: 
 
